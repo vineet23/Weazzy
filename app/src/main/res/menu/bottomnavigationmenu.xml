@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/chatNavigation"
+        android:icon="@drawable/chatfill"
+        android:title="@string/chat"/>
+
+    <item
+        android:id="@+id/statusNavigation"
+        android:icon="@drawable/statusfill"
+        android:title="@string/status"/>
+
+    <item
+        android:id="@+id/exploreNavigation"
+        android:icon="@drawable/explorefill"
+        android:title="@string/explore"/>
+
+</menu>

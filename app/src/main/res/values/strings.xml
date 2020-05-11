@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Weazzy</string>
+
+    <string name="sub">The fast and secure messaging app to explore and chat with friends.
+        \n Chat . Shop . Explore
+    </string>
+    <string name="start">Start Messaging</string>
+    <string name="enterPhone">Enter your phone number</string>
+    <string name="subPhone">Weazzy will send an SMS message to verify your phone number.</string>
+    <string name="phoneNumber">phone number</string>
+    <string name="carrierCharges">Carrier SMS charges may apply</string>
+    <string name="next">Next</string>
+    <string name="login">Login</string>
+    <string name="loginSub">Please login to continue</string>
+    <string name="signUp">Sign up</string>
+    <string name="signUpSub">Please sign up to continue</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="email">Email (Optional)</string>
+    <string name="confirmPassword">Confirm password</string>
+    <string name="password">Password</string>
+    <string name="passwordSub">Must contain alphabets, digit and special case character</string>
+    <string name="forgot">Forgot password?</string>
+    <string name="profile">Profile Info</string>
+    <string name="otpVerification">OTP Verification</string>
+    <string name="otpSub">Waiting to automatically detect an SMS sent to</string>
+    <string name="otpCode">Enter code here</string>
+    <string name="otpResend">Resend OTP</string>
+    <string name="verify">Verify</string>
+    <string name="initialize">Setting you up…</string>
+    <string name="wait">Please wait a moment</string>
+    <string name="chat">Chat</string>
+    <string name="status">Status</string>
+    <string name="explore">Explore</string>
+
+</resources>

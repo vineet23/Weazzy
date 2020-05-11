@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0A66DE</color>
+    <color name="colorPrimaryLight">#58BAFF</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="gradientCenter">#0E3C78</color>
+    <color name="colorAccent">#12C770</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="statusBarColor">#49191818</color>
+    <color name="background">#121212</color>
+    <color name="gray">#404040</color>
+    <color name="whitetransparent">#5EFFFFFF</color>
+</resources>
