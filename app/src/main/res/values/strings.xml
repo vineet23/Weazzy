@@ -32,5 +32,6 @@
     <string name="chat">Chat</string>
     <string name="status">Status</string>
     <string name="explore">Explore</string>
+    <string name="search">Search</string>
 
 </resources>
